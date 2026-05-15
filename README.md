@@ -20,7 +20,6 @@
     <img width="32" height="32" alt="vscode" src="https://github.com/user-attachments/assets/f01fe7c1-e60a-46c5-a11a-3af4ae14aaeb" />
     <img width="32" height="32" alt="python" src="https://github.com/user-attachments/assets/0935b4c1-5883-4fef-839e-293dd62281ff" />
     <img width="32" height="32" alt="html" src="https://github.com/user-attachments/assets/550e8527-7c91-4533-96b4-7a7cadbf2e0c" />
-    <img width="32" height="32" alt="flutter" src="https://github.com/user-attachments/assets/b7ac5d51-30d8-4ffc-9a19-2b72cb866318" />
     <img width="32" height="32" alt="css" src="https://github.com/user-attachments/assets/424d7fc5-afa5-41bf-9579-8486eaffe9a9" />
   </div>
   
