@@ -1,36 +1,108 @@
-<div align=center> <img width="1920" heigh"500" alt="HeroBanner" src="https://github.com/user-attachments/assets/16851962-9bd8-486a-a14f-1eafb52244f5"/>
-  </div>
-<!--소개-->
-<br>
 <div align="center">
-  <h4 >안녕하세요 저는 디자인을 전공하고 있는 학생 정의진입니다. 저는 AI로 변화하는 시장 속에서 대체되지 않을 인재가 되기 위해 <br> 기획, 프론트엔드, 백엔드의 공부를 시작하였습니다. 또한 AI와 같이 개발을 진행하면서 AI활용 능력 또한 기르고 있는 학생입니다. 잘 부탁드립니다.</h4>
-</div>
-<br>
-<!--skill-->
-<div>
-  <div align="center">
-    <h6>Design Skill</h6>
-    <img width="32" height="32" alt="Photoshop" src="https://github.com/user-attachments/assets/5654e1f6-1e5c-41d0-a269-55e0a04171fb"/>
-    <img width="32" height="32" alt="Illustlation" src="https://github.com/user-attachments/assets/9f08b4f0-3e80-45fd-9d2f-cd09c49ae593" />
-    <img width="32" height="32" alt="Figma" src="https://github.com/user-attachments/assets/81a0dc8a-cc66-45f2-b56c-93a361339337" />
-  </div>
-  
-  <div align="center">
-    <h6>Development Skill</h6>
-    <img width="32" height="32" alt="vscode" src="https://github.com/user-attachments/assets/f01fe7c1-e60a-46c5-a11a-3af4ae14aaeb" />
-    <img width="32" height="32" alt="python" src="https://github.com/user-attachments/assets/0935b4c1-5883-4fef-839e-293dd62281ff" />
-    <img width="32" height="32" alt="html" src="https://github.com/user-attachments/assets/550e8527-7c91-4533-96b4-7a7cadbf2e0c" />
-    <img width="32" height="32" alt="css" src="https://github.com/user-attachments/assets/424d7fc5-afa5-41bf-9579-8486eaffe9a9" />
-  </div>
-  
-  <div align="center">
-    <h6>Communication Skill</h6>
-    <img width="32" height="32" alt="slack" src="https://github.com/user-attachments/assets/d4e9e244-6226-4665-80da-be004724a0c6" />
-    <img width="32" height="32" alt="notion" src="https://github.com/user-attachments/assets/7159cbe0-a82f-43c5-aa48-33ec1513e759" />
-  
-  </div>
-  <br>
-  <br>
-</div>
-<img width="1920" height="500" alt="ButtomBanner" src="https://github.com/user-attachments/assets/49fa6b0b-475e-4c1a-8575-27928e3545f2"/>
 
+<!-- Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4FC3F7,50:7E57C2,100:E91E63&height=220&section=header&text=Welcome%20to%20My%20GitHub%20👋&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Designer%20%7C%20AI%20Explorer%20%7C%20Future%20Developer&descSize=18&descAlignY=55&animation=fadeIn" width="100%" />
+
+<!-- Typing SVG -->
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=7E57C2&center=true&vCenter=true&repeat=true&width=500&height=45&lines=Designer+%F0%9F%8E%A8;Fullstack+Developer+%F0%9F%92%BB;Always+Learning+%F0%9F%8C%B1)](https://git.io/typing-svg)
+
+</div>
+
+---
+
+## 🙋‍♂️ About Me
+
+> 디자인 감각과 AI 도구 활용 능력을 바탕으로, 개발 역량까지 갖춘 **크리에이티브 디벨로퍼**를 목표로 성장 중입니다.
+
+- 🎨 디자인 툴을 활용한 **UI/UX 작업** 경험
+- 🤖 다양한 **AI 도구**를 적극 활용하여 생산성 향상
+- 📚 현재 **풀스택 개발**을 위한 기술 학습 중
+- 💡 디자인 + 개발 + AI의 교차점에서 가치를 만들어가는 중
+
+---
+
+## 🎨 Design Tools
+
+<div align="center">
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+
+</div>
+
+---
+
+## 🤖 AI Tools
+
+<div align="center">
+
+![Claude](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Antigravity](https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![ComfyUI](https://img.shields.io/badge/ComfyUI-222222?style=for-the-badge&logo=comfyui&logoColor=white)
+
+</div>
+
+---
+
+## 🤝 Collaboration Tools
+
+<div align="center">
+
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
+
+---
+
+## 📚 Currently Learning
+
+<div align="center">
+
+#### 🌐 Frontend
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+#### ⚙️ Backend
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+
+#### 🗄️ Database & Infra
+
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+</div>
+
+---
+
+## 📬 Contact Me
+
+<div align="center">
+
+[![Tistory](https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white)](https://uiuxdev.tistory.com/)
+[![Naver Mail](https://img.shields.io/badge/Email-03C75A?style=for-the-badge&logo=naver&logoColor=white)](mailto:uijinnnn609@naver.com)
+
+</div>
+
+---
+
+<div align="center">
+
+<!-- Visitor Counter -->
+
+![Visitor Count](https://komarev.com/ghpvc/?username=YOUR_GITHUB_ID&color=7E57C2&style=for-the-badge&label=VISITORS)
+
+<!-- Footer Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4FC3F7,50:7E57C2,100:E91E63&height=120&section=footer" width="100%" />
+
+</div>
